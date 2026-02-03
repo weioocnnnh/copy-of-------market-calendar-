@@ -1,0 +1,5 @@
+{
+  "name": "Copy of 街天日历 (Market Calendar)",
+  "description": "A calendar application that tracks 'Market Days' (街天) starting from February 2, 2026, occurring every 3 days.",
+  "requestFramePermissions": []
+}
